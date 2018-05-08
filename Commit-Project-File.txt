@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "rtyu"
+git remote add github https://github.com/0981852582/demo.git
+git remote -v
+git push  -f github master
